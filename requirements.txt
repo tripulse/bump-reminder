@@ -1,0 +1,2 @@
+discord~=1.0.1
+sqlitedict~=1.7.0
